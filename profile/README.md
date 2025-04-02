@@ -5,7 +5,7 @@ Welcome to the Rylix Solutions .github repo, bro! This is where all our GitHub c
 ## Connect With Us
 
 Questions? Feedback? Just wanna chat? Reach out to the Rylix crew:
-- **Email:** youremail@example.com
+- **Email:** 
 - **GitHub:** [RylixSolutions](https://github.com/RylixSolutions)
 
 Let's build something epic together, bro!
